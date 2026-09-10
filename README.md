@@ -77,15 +77,6 @@ A iniciar uma nova etapa profissional, com novos desafios, novas aprendizagens e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-MMartins&show_icons=true&hide_border=true&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-MMartins&layout=compact&hide_border=true" height="170">
-</p>
-
----
-
 ## 📫 Contactos
 
 - 💼 LinkedIn: [Rodrigo Martins](https://www.linkedin.com/in/rodrigo-martins-57a205340?trk=blended-typeahead)
